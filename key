@@ -1,11 +1,12 @@
 --//Variables
+if _G.key = lol
 local games = {
 	[7503115095] = "https://raw.githubusercontent.com/eeeerrrrf3/Pop-It-Trading-/main/Toy%20It%20Trading%202%E2%9C%A8",
 	[7313915417] = ""
 	
 }
 --//Main Code
-if _G.shdscripts = lol then
+if _G.shdscripts ~= nil then
   error("Already executed!")
 end
 _G.shdscripts = true
