@@ -5,11 +5,6 @@ local games = {
 	[7313915417] = ""
 	
 }
---//Main Code
-if _G.shdscripts ~= nil then
-  error("Already executed!")
-end
-_G.shdscripts = true
 if games[game.PlaceId] ~= nil then
 	loadstring(game:HttpGet(games[game.PlaceId]))()
 else
