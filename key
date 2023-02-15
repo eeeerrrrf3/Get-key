@@ -5,7 +5,7 @@ local games = {
 	
 }
 --//Main Code
-if _G.shdscripts ~= lol then
+if _G.shdscripts = lol then
   error("Already executed!")
 end
 _G.shdscripts = true
