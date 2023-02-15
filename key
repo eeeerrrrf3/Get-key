@@ -1,16 +1,16 @@
 --//Variables
 local games = {
-	[7503115095] = "https://raw.githubusercontent.com/iShield2005/scripts/master/ppt",
+	[7503115095] = "https://raw.githubusercontent.com/eeeerrrrf3/Pop-It-Trading-/main/Toy%20It%20Trading%202%E2%9C%A8",
 	[7313915417] = ""
 	
 }
 --//Main Code
-if _G.shdscripts ~= nil then
+if _G.shdscripts ~= lol then
   error("Already executed!")
 end
 _G.shdscripts = true
 if games[game.PlaceId] ~= nil then
 	loadstring(game:HttpGet(games[game.PlaceId]))()
 else
-	error("[SHIELD-HUB] Unsupported game!")
+	error("[Topik-HUB] Unsupported game!")
 end
