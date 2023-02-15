@@ -1,7 +1,7 @@
 --//Variables
 if _G.key = nil then
 local games = {
-	[7503115095] = "https://raw.githubusercontent.com/eeeerrrrf3/Pop-It-Trading-/main/Toy%20It%20Trading%202%E2%9C%A8",
+	[7503115095] = "https://raw.githubusercontent.com/eeeerrrrf3/Pop-It-Trading-/main/Toy%20It%20Trading%202%E2%9C%A8 ",
 	[7313915417] = ""
 	
 }
