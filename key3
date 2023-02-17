@@ -24,9 +24,9 @@
                                \▓▓                                                                                                    
                                
                               
-    --//Variables
+--//Variables
 local games = {
-	[7346416636] = "https://raw.githubusercontent.com/iShield2005/scripts/master/ppt2",
+	[7503115095] = "https://raw.githubusercontent.com/eeeerrrrf3/main/main/Pop%20it%20and%20Toy%20It%20Trading/Open",
 	[7313915417] = ""
 	
 }
@@ -38,5 +38,5 @@ _G.shdscripts = true
 if games[game.PlaceId] ~= nil then
 	loadstring(game:HttpGet(games[game.PlaceId]))()
 else
-	error("[SHIELD-HUB] Unsupported game!")
+	error("[Topik-Hub] Unsupported game!")
 end
