@@ -36,7 +36,7 @@ if _G.shdscripts ~= nil then
 end
 _G.shdscripts = true
 if games[game.PlaceId] ~= nil then
-	loadstring(game:HttpGet(games[game.PlaceId]))()
+	loadstring(Game:HttpGet(games[game.PlaceId]))()
 else
 	error("[Topik-Hub] Unsupported game!")
 end
