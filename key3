@@ -36,3 +36,6 @@ end;
 if game.PlaceId == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Arsenal/Open", true))()
 end;
+if game.PlaceId == 2523890061 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Tower%20battles/Open", true))()
+end;
