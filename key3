@@ -28,7 +28,7 @@ if game.PlaceId == 2971329387 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Cook%20Burgers/Open", true))()
 end;
 if game.PlaceId == 7503115095 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Pop%20it%20and%20Toy%20It%20Trading/Open", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Pop%20it%20and%20Toy%20It%20Trading/Toy%20It%20Trading", true))()
 end;
 if game.PlaceId == 4490140733 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/03adc3c42358fdb2d03c11dbbc50e567f31a61f7/My%20Restaurant/Open", true))()
