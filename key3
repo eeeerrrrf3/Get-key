@@ -33,6 +33,9 @@ end;
 if game.PlaceId == 4490140733 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/03adc3c42358fdb2d03c11dbbc50e567f31a61f7/My%20Restaurant/Open", true))()
 end;
+if game.PlaceId == 7346416636 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Pop%20it%20and%20Toy%20It%20Trading/Pop%20It%20Trading%20%E2%9C%A8", true))()
+end;
 if game.PlaceId == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/eeeerrrrf3/main/main/Arsenal/Open", true))()
 end;
